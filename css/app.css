@@ -1,0 +1,330 @@
+body{
+  
+	background: #fcfefc;
+	
+}
+	
+	
+.thefooter  {
+	
+	text-decoration: none;
+	padding-left: 15px;
+}
+
+.footnote {
+	text-align:left;
+	color: #FFFFFFF;
+	padding-left: 10px;
+	
+}
+
+	.wrapper{padding-top:60px;
+	}
+	.button{background:#008752;
+	}
+	.logo{text-align:center;
+	margin-bottom: 45px;}
+	.thenav{text-align:center;}
+	
+	.history{padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom:15px;
+	text-indent: 50px;
+	}
+	
+	.team{
+		background:#fcfefc;
+	}
+	.team2{
+		background:#fcfefc;
+	}
+	.1970{list-style-type: none;
+	}
+	
+	
+.about{padding-bottom; 150px;
+}
+
+
+
+img.effect:hover{opacity:0.4;
+
+}
+
+.Jersey{/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#2c539e+0,043c7c+100 */
+background: rgb(44,83,158); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(44,83,158,1) 0%, rgba(4,60,124,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(44,83,158,1) 0%,rgba(4,60,124,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(44,83,158,1) 0%,rgba(4,60,124,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', endColorstr='#043c7c',GradientType=0 ); /* IE6-9 */
+font-weight: bold;
+color: white;
+text-align: center;
+font-family: Agency FB;
+padding-bottom: 5px;
+}
+
+.road{/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#2c539e+0,043c7c+100 */
+background: rgb(44,83,158); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(44,83,158,1) 0%, rgba(4,60,124,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(44,83,158,1) 0%,rgba(4,60,124,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(44,83,158,1) 0%,rgba(4,60,124,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', endColorstr='#043c7c',GradientType=0 ); /* IE6-9 */
+font-weight: bold;
+color: white;
+font-family: Agency FB;
+padding-left: 15px;
+padding-bottom: 5px;
+padding-top: 5px;
+margin-bottom: 15px;
+margin-top: 15px;
+}
+
+.home{/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#2c539e+0,043c7c+100 */
+background: rgb(44,83,158); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(44,83,158,1) 0%, rgba(4,60,124,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(44,83,158,1) 0%,rgba(4,60,124,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(44,83,158,1) 0%,rgba(4,60,124,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', endColorstr='#043c7c',GradientType=0 ); /* IE6-9 */
+font-weight: bold;
+color: white;
+font-family: Agency FB;
+padding-left: 15px;
+padding-bottom: 5px;
+padding-top: 5px;
+margin-bottom: 15px;
+margin-top: 15px;
+}
+
+.logos{
+		background:#fcfefc;
+	}
+	
+	.prime{/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#2c539e+0,043c7c+100 */
+background: rgb(44,83,158); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(44,83,158,1) 0%, rgba(4,60,124,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(44,83,158,1) 0%,rgba(4,60,124,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(44,83,158,1) 0%,rgba(4,60,124,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', endColorstr='#043c7c',GradientType=0 ); /* IE6-9 */
+font-weight: bold;
+font-family: Agency FB;
+color: white;
+padding-left: 15px;
+padding-bottom: 5px;
+padding-top: 5px;
+margin-bottom: 15px;
+margin-top: 15px;
+}
+
+  .button-group.primary .button {
+    background-color: #3060b9;
+    color: #fefefe; }
+	
+.captains{
+		background:#fcfefc;
+		padding-left: 140px;
+	}
+
+
+
+.name{font-weight: bold;}
+
+.former{background: rgb(44,83,158); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(44,83,158,1) 0%, rgba(4,60,124,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(44,83,158,1) 0%,rgba(4,60,124,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(44,83,158,1) 0%,rgba(4,60,124,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539e', endColorstr='#043c7c',GradientType=0 ); /* IE6-9 */
+font-weight: bold;
+color: white;
+font-family: Agency FB;
+text-align: center;
+padding-bottom: 5px;
+padding-top: 5px;}
+
+.notice{color:red;
+text-align:center;
+}
+
+ table.center2 {
+    
+	margin-left:205px;
+    margin-right:auto;
+	padding-bottom: 35px;
+  }
+  
+  .coaches{
+		background:#fcfefc;
+		padding-left: 140px;
+	}
+/*Kurtenbach read more */
+div.content-Kurt {
+    display:none;
+}	
+/*Boudrias read more */
+div.content-Boudrias {
+    display:none;
+}	
+/*Oddleifson read more */
+div.content-Oddleifson {
+    display:none;
+}	
+/* Lever read more */
+div.content-Lever {
+    display:none;
+}	
+		
+	/* McCarthy read more */
+div.content-McCarthy {
+    display:none;
+}	
+		/* Smyl read more */
+div.content-Smyl {
+    display:none;
+}	
+	/* D.Quinn read more */
+div.content-DQuinn {
+    display:none;
+}	
+		/* Lidster read more */
+div.content-Lidster {
+    display:none;
+}	
+	
+	
+		/* Linden read more */
+div.content-Linden {
+    display:none;
+}
+
+		/* Messier read more */
+div.content-Messier {
+    display:none;
+}
+		/* Naslund read more */
+div.content-Naslund {
+    display:none;
+}
+		/* Luongo read more */
+div.content-Luongo {
+    display:none;
+}
+		/* Henrik Sedin read more */
+div.content-HenrikSedin {
+display:none;}
+	
+		/* laycoe read more */
+div.content-Laycoe {
+    display:none;
+}
+
+	/* Stasiuk read more */
+div.content-Stasiuk {
+    display:none;
+}
+	/* McCreary read more */
+div.content-McCreary {
+    display:none;
+}
+	/* Maloney read more */
+div.content-Maloney {
+    display:none;
+}
+
+	/* KurtenbachCoach read more */
+div.content-KurtenbachCoach {
+    display:none;
+}
+
+	/* Neale read more */
+div.content-Neale {
+    display:none;
+}
+
+
+
+.side-border{border-right: 4px solid #1b498f;
+border-bottom: 4px solid #1b498f;
+border-top: 4px solid #1b498f;
+margin-top: 15px;
+padding-top: 15px;
+margin-right: 15px;
+margin-bottom: 15px;
+}
+
+.button:hover, .button:focus {
+    background-color: #1c4a90;
+    color: #fff; }
+	
+	a.Kurt{color: #3060b9;
+
+	}	
+	
+	
+	
+.what{font-family: Agency FB, Agency, Helvetica;
+font-weight:bold;
+font-size: 24px;}
+	.stats{border: solid #1c4a90;
+	
+	}
+	
+	
+	
+	
+	a.Boud{color: #3060b9;
+
+	}		
+	
+	
+	a.Oddle{color: #3060b9;
+
+	}	
+	
+	
+	a.DLever{color: #3060b9;
+
+	}	
+	
+	
+	a.McCart{color: #3060b9;
+
+	}	
+	
+	a.Steamer{color: #3060b9;
+
+	}	
+	
+	a.DanQuinn{color: #3060b9;
+
+	}
+	
+	
+	a.Lids{color: #3060b9;
+
+	}
+	
+	
+	a.Trev{color: #3060b9;
+
+	}
+	
+	a.Mess{color: #3060b9;
+
+	}	
+	
+	a.Nazzy{color: #3060b9;
+
+	}	
+
+	a.Luu{color: #3060b9;
+
+	}	
+	
+	a.Sedin{color: #3060b9;
+
+	}	
+	
+		a.BTT{color: #3060b9;
+		text-align:center;
+
+	}
